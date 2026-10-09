@@ -1,0 +1,45 @@
+{
+  "_readme": "Edit values here to update the site later. Contact.dc.html reads 'contactForm' on load. Other sections are reference values (not yet read by pages). Do not store passwords or private API keys in this file: it is public.",
+  "contactForm": {
+    "formId": "1FAIpQLScucdR67mTe3v3WgvDHm_HkhtrJaiRlQgmG5XcVT6VJ9duijQ",
+    "formResponseUrl": "https://docs.google.com/forms/d/e/1FAIpQLScucdR67mTe3v3WgvDHm_HkhtrJaiRlQgmG5XcVT6VJ9duijQ/formResponse",
+    "viewFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLScucdR67mTe3v3WgvDHm_HkhtrJaiRlQgmG5XcVT6VJ9duijQ/viewform",
+    "entries": {
+      "name": "entry.2005620554",
+      "email": "entry.1045781291",
+      "phone": "entry.1166974658",
+      "topic": "entry.965889338",
+      "message": "entry.839337160"
+    },
+    "turnstileSiteKey": "",
+    "workerUrl": "",
+    "_note": "Set turnstileSiteKey (public site key from Cloudflare Turnstile) and workerUrl (your deployed Worker URL) to turn on Turnstile. Leave both empty to post directly to Google Form. Keep the Turnstile SECRET key only in the Worker settings, never in this file."
+  },
+  "links": {
+    "login": "https://piip.algorick.com/login",
+    "signup": "https://piip.algorick.com/signup",
+    "whatsapp": "https://wa.me/919040667427",
+    "telegram": "",
+    "x": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "contact": {
+    "infoEmail": "info@algorick.com",
+    "supportEmail": "support@algorick.com",
+    "phone": "+91 90406 67427",
+    "hours": "Monday to Friday, 10:00 AM to 6:00 PM IST",
+    "address": "Paralakhemundi, Odisha 761200, India"
+  },
+  "analytics": {
+    "googleAnalyticsId": "",
+    "searchConsoleVerified": false
+  },
+  "legal": {
+    "company": "ALGORICK TECHNOLOGIES PRIVATE LIMITED",
+    "cin": "",
+    "gstin": "",
+    "grievanceOfficerName": "",
+    "grievanceOfficerEmail": ""
+  }
+}
